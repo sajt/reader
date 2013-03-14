@@ -1,0 +1,10 @@
+name = Reader
+description = Simple Reader clone
+version = 1.dev
+core = 7.x
+dependencies[] = block
+dependencies[] = dblog
+dependencies[] = views
+dependencies[] = ctools
+dependencies[] = feeds
+
